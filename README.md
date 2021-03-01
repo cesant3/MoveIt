@@ -32,3 +32,4 @@ Pretendo trabalhar nas seguintes features para o futuro:
 Contribuições são sempre bem-vindas!
 
 ## Licença
+Licença MIT
